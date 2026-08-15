@@ -47,7 +47,7 @@ Every paper of mine with an accompanying repository has its data and analysis co
 - **Mechanisms of electrical switching of ultrathin CoO/Pt bilayers.** *Nano Lett.* 24, 1471 (2024). [10.1021/acs.nanolett.3c02890](https://doi.org/10.1021/acs.nanolett.3c02890)
 - **Tailoring spin-to-charge conversion efficiency via microwave frequency in La<sub>0.67</sub>Sr<sub>0.33</sub>MnO<sub>3</sub>/Pt bilayers.** *SPIN* 14, 2340019 (2024). [10.1142/S2010324723400192](https://doi.org/10.1142/S2010324723400192)
 
-A CrSBr tunnel junction reaching 350% magnetoresistance with no magnetic electrodes is written up and prepared for submission. It is not peer-reviewed yet, so it has no DOI; the mechanism and the figures are described [on my site](https://aditya-kumar.de/research/).
+**Preprint.** *Large bias-tunable magnetoresistance from spin-dependent interlayer hybridization in van der Waals antiferromagnet CrSBr-based heterostructures.* [arXiv:2608.11389](https://arxiv.org/abs/2608.11389). Shared first author. A junction with no magnetic electrodes at all, reaching 350% magnetoresistance at 20 K, where the antiferromagnetic order of the CrSBr barrier itself sets the barrier height and the bias voltage sets the size of the effect. Not peer-reviewed yet, so it has no DOI. The mechanism and the figures are [on my site](https://aditya-kumar.de/research/).
 
 The full list, with citations, is on [Google Scholar](https://scholar.google.com/citations?hl=en&user=Of45xvUAAAAJ&view_op=list_works&sortby=pubdate).
 
